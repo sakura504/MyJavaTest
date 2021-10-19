@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc59ff7d-69d4-4e84-b698-003748c52d86" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ebyPKZQH4ciXxEHvbMD0nsNrXX" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/day02" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="start" />
+      <recent name="thread" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\JavaTest\src\day02" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MyDaemon">
+    <configuration name="MyDaemon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="state.MyDaemon" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="state.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyThreadJoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="state.MyThreadJoin" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="state.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyThreadPriority" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="state.MyThreadPriority" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="state.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyThreadState" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="state.MyThreadState" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="state.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyThreadYield" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="state.MyThreadYield" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="state.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyDaemon" />
+        <item itemvalue="Application.MyThreadPriority" />
+        <item itemvalue="Application.MyThreadState" />
+        <item itemvalue="Application.MyThreadJoin" />
+        <item itemvalue="Application.MyThreadYield" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc59ff7d-69d4-4e84-b698-003748c52d86" name="Default Changelist" comment="" />
+      <created>1594604561199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594604561199</updated>
+      <workItem from="1594604564196" duration="14720000" />
+      <workItem from="1594685487817" duration="835000" />
+      <workItem from="1594773461582" duration="101000" />
+      <workItem from="1594773577257" duration="119000" />
+      <workItem from="1594773711582" duration="767000" />
+      <workItem from="1594944624932" duration="615000" />
+      <workItem from="1595228884174" duration="683000" />
+      <workItem from="1595465594327" duration="2699000" />
+      <workItem from="1595474996572" duration="601000" />
+      <workItem from="1596428526387" duration="1704000" />
+      <workItem from="1597051232917" duration="1151000" />
+      <workItem from="1597105602764" duration="90000" />
+      <workItem from="1597105705344" duration="9000" />
+      <workItem from="1598411594756" duration="62000" />
+      <workItem from="1599190237044" duration="713000" />
+      <workItem from="1599615158097" duration="232000" />
+      <workItem from="1599787847827" duration="57000" />
+      <workItem from="1610262987563" duration="1383000" />
+      <workItem from="1610325095185" duration="179000" />
+      <workItem from="1610516534961" duration="5446000" />
+      <workItem from="1614327936610" duration="923000" />
+      <workItem from="1615512894158" duration="1784000" />
+      <workItem from="1615767465353" duration="595000" />
+      <workItem from="1615888958595" duration="2293000" />
+      <workItem from="1615940806342" duration="1194000" />
+      <workItem from="1616027375799" duration="612000" />
+      <workItem from="1616144022890" duration="1423000" />
+      <workItem from="1616392216604" duration="4141000" />
+      <workItem from="1616458544615" duration="595000" />
+      <workItem from="1616546250225" duration="644000" />
+      <workItem from="1616668011122" duration="596000" />
+      <workItem from="1616718053535" duration="594000" />
+      <workItem from="1616751716192" duration="118000" />
+      <workItem from="1620801582970" duration="709000" />
+      <workItem from="1620885414051" duration="1738000" />
+      <workItem from="1620962672091" duration="1582000" />
+      <workItem from="1622449431060" duration="692000" />
+      <workItem from="1623825134856" duration="1582000" />
+      <workItem from="1624408959587" duration="638000" />
+      <workItem from="1624605331475" duration="1558000" />
+      <workItem from="1624848843702" duration="772000" />
+      <workItem from="1624926468443" duration="392000" />
+      <workItem from="1624954428065" duration="1524000" />
+      <workItem from="1624956002162" duration="601000" />
+      <workItem from="1625046134181" duration="3360000" />
+      <workItem from="1625211971287" duration="717000" />
+      <workItem from="1625531674091" duration="1217000" />
+      <workItem from="1626919885700" duration="742000" />
+      <workItem from="1627288318473" duration="1496000" />
+      <workItem from="1627545104422" duration="699000" />
+      <workItem from="1627604945875" duration="1021000" />
+      <workItem from="1628574368427" duration="1098000" />
+      <workItem from="1628641569323" duration="270000" />
+      <workItem from="1629442207382" duration="41000" />
+      <workItem from="1629442263917" duration="63000" />
+      <workItem from="1630628787837" duration="180000" />
+      <workItem from="1630634941796" duration="5613000" />
+      <workItem from="1630887701194" duration="603000" />
+      <workItem from="1632643037170" duration="2317000" />
+      <workItem from="1632702553696" duration="595000" />
+      <workItem from="1633931789946" duration="2756000" />
+      <workItem from="1634016802691" duration="46000" />
+      <workItem from="1634017796605" duration="6334000" />
+      <workItem from="1634084877369" duration="3798000" />
+      <workItem from="1634279677200" duration="7324000" />
+      <workItem from="1634516873096" duration="3647000" />
+      <workItem from="1634603202533" duration="9735000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/math/BigDecimal.java</url>
+          <line>2624</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
