@@ -1,3 +1,5 @@
+package thread;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Vector;
@@ -20,7 +22,7 @@ public class ThreadDemo
         List<Object> list = new Vector<>();
 
         // 线程数量(1000)
-        int threadCount = 1000;
+        int threadCount = 10;
 
         // 用来让主线程等待threadCount个子线程执行完毕
         CountDownLatch countDownLatch = new CountDownLatch(threadCount);
@@ -63,7 +65,7 @@ class MyThread implements Runnable
     public void run()
     {
         // 每个线程向List中添加100个元素
-        for(int i = 0; i < 100; i++)
+        for(int i = 0; i < 10000; i++)
         {
             list.add(new Object());
         }

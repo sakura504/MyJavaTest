@@ -12,7 +12,7 @@ public class MyDaemon {
         God god = new God();
 
         Thread godThread = new Thread(god);
-        godThread.setDaemon(false);
+        godThread.setDaemon(true); //默认是false表示用户线程，true为守护线程
         godThread.start();
 
         new Thread(you).start();
